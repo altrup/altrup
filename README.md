@@ -1,4 +1,4 @@
-Hey! I'm [Eric](https://altrup.dkg.zone/), currently a Mechatronics Engineering student at the [University of Waterloo](https://uwaterloo.ca/)
+Hey! I'm [Eric](https://altrup.dkg.zone/), a Mechatronics Engineering student at the [University of Waterloo](https://uwaterloo.ca/)
 
 <!--
 **altrup/altrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
